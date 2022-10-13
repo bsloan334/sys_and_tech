@@ -26,9 +26,22 @@ Your assignment for Part B of the final project is
 
 Further instructions are as follows. 
 
-1. Include in your analysis at least 3 variables besides income.     
+1. Include in your analysis at least 3 variables besides income.
 
-2. You may restrict the data to a single year, or include multiple years to study trends. The choice is yours and depends on the features you wish to analyze.   
+Single variant for a lot of them
+Bi variant relationsips for other. Determine which two variables have the most affect.
+
+Race, education, sex, BMI, age. 4 multivariate (Race and sex, education and race, education and sex, age and BMI, BMI and sex)
+
+Andrew: Race, BMI, education and race, BMI and sex
+
+Sean: education, age, education and sex
+
+Bert: sex, Race and sex, age and BMI
+
+2. You may restrict the data to a single year, or include multiple years to study trends. The choice is yours and depends on the features you wish to analyze.
+
+First and last year for the sense of change over time. Comparison over time. 
 
 3. In the first section of your report, state explicitly which variables you will analyze along with income, and the year or years of data analyzed.     
 
